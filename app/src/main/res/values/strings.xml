@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">字典</string>
+    <string name="language">语种</string>
+    <string name="language_notice">【语种】</string>
+    <string name="sign_notice">【音标】</string>
+    <string name="play_voice">播放发音</string>
+    <string name="query_hint">请输入要查询的字词</string>
+</resources>
